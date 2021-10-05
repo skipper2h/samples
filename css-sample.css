@@ -1,4 +1,15 @@
 <!-- Base component -->
+<header class="page-hseader">
+    <h2>...</h2>
+    <p>...</p>
+</header>
+
+<!-- Component variation -->
+<header class="page-header">
+    <h2>...</h2>
+    <p>...</p>
+</header>
+<!-- Base component -->
 <header class="page-header">
     <h2>...</h2>
     <p>...</p>
@@ -6,6 +17,16 @@
 
 <!-- Component variation -->
 <header class="page-header">
+    <h2>...</h2>
+    <p>...</p>
+</header><!-- Base compsonent -->
+<header class="page-header">
+    <h2>...</h2>
+    <p>...</p>
+</header>
+
+<!-- Component variation -->
+<header class="page-hseader">
     <h2>...</h2>
     <p>...</p>
 </header>
